@@ -5,3 +5,5 @@ Implemented Restricted Boltzmann machines (RBMs) using only python and numpy and
 Output is hidden representations for test images
 
 Also used Gibbs sampling to learn the model
+
+![samples](https://github.com/monika58/RBMs/blob/master/Samples%20generated_gibbs_chain.png)
